@@ -1,0 +1,26 @@
+{
+    "name": "mehrdad-dadkhah/stream-to-download",
+    "description": "send data chunk to client for download it",
+    "keywords": ["video","hls", "m3u8", "live_stream_video", "stream", "jwplayer", "ffmpeg"],
+    "homepage": "https://github.com/Mehrdad-Dadkhah/hls-video-generater",
+    "type": "library",
+    "require": {
+	    "php": ">=5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.6.*",
+	    "guzzlehttp/guzzle": "^5.0|^6.0"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Mehrdad Dadkhah",
+            "email": "mehrdad@dadkhah.me"
+        }
+    ],
+    "autoload": {
+	    "psr-4": {
+		    "MehrdadDadkhah\\Video\\": "src/"
+	    }
+    }
+}

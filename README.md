@@ -1,7 +1,7 @@
 # StreamToDownload
 
 [![Software License](https://img.shields.io/badge/license-GPL-brightgreen.svg?style=flat-square)](LICENSE)
-[![Packagist Version](https://img.shields.io/packagist/v/Mehrdad-Dadkhah/stream-to-download.svg?style=flat-square)](https://packagist.org/packages/Mehrdad-Dadkhah/stream-to-download)
+[![Packagist Version](https://img.shields.io/packagist/v/Mehrdad-Dadkhah/stream-to-download.svg?style=flat-square)](https://packagist.org/packages/mehrdad-dadkhah/stream-to-download)
 
 
 Send data chunk to client for download it

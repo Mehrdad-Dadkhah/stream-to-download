@@ -1,8 +1,8 @@
 {
     "name": "mehrdad-dadkhah/stream-to-download",
     "description": "send data chunk to client for download it",
-    "keywords": ["video","hls", "m3u8", "live_stream_video", "stream", "jwplayer", "ffmpeg"],
-    "homepage": "https://github.com/Mehrdad-Dadkhah/hls-video-generater",
+    "keywords": ["stream","downloader", "download", "live_stream_video", "huge_file", "file", "video"],
+    "homepage": "https://github.com/Mehrdad-Dadkhah/stream-to-download",
     "type": "library",
     "require": {
 	    "php": ">=5.5"
